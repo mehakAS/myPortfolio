@@ -33,7 +33,6 @@ import bitcoin from "./bitcoin.png";
 import carms from "./carms.jpg";
 
 export {
-  logo,
   backend,
   creator,
   mobile,
