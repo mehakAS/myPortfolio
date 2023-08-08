@@ -45,14 +45,17 @@ import {
     {
       title: "Web Developer",
       icon: web,
+      description:"I delved into the design and construction of websites while creating web applications for projects",
     },
     {
-      title: "React Native Developer",
+      title: "ReactJS Developer",
       icon: mobile,
+      description:"I worked with ReactJS during my internship to enhance a web and mobile application",
     },
     {
       title: "Backend Developer",
       icon: backend,
+      description:"I explored the communication between database, servers and apps while creating full-stack web applications",
     },
   ];
   
@@ -103,8 +106,8 @@ import {
       iconBg: "#383E56",
       date: "May 2023 - July 2023",
       points: [
-        "Collaborated with a team of 7 front-end developers to implement 40 changes in UI/UX to ensure compliance with user stories using ReactJS framework, HTML and CSS.",
         "Developed, reviewed code and fixed bugs for UOB’s Infinity Digital Bank Global Soft Token (web and mobile) application using Agile Ways of Working", 
+        "Collaborated with a team of 7 front-end developers to implement 40 changes in UI/UX to ensure compliance with user stories using ReactJS framework, HTML and CSS.",
         "Participated in Agile ceremonies, Daily Stand Up meetings, sprint closures and product demos."
         
       ],
